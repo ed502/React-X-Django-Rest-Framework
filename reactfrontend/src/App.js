@@ -22,8 +22,8 @@ function App() {
       </header>
 
       <div>
-        <img className="little_img" src = "./library.png"/>
-        <h1 id="library" className="defont">Library</h1>
+        <img id="library"  className="little_img" src = "./library.png"/>
+        <h1 className="defont">Library</h1>
       </div>
 
       <div>
@@ -38,8 +38,8 @@ function App() {
       </div>
 
       <div>
-        <img className="little_img" src = "./contact.png"/>
-        <h1 id="contact" className="defont">Contact</h1>
+        <img id="contact" className="little_img" src = "./contact.png"/>
+        <h1 className="defont">Contact</h1>
       </div>
 
       <div>
